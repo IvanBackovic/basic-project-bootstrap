@@ -1,5 +1,5 @@
 {
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
     "editor.guides.bracketPairs": "active",
     "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
     "editor.autoClosingBrackets": "always",
